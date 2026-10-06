@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use PIE-PS, please cite the paper below."
+title: "PIE-PS: Photometric Stereo from Physical Irradiance Event Streams"
+type: software
+authors:
+  - family-names: Meng
+    given-names: Xiangze
+  - family-names: Li
+    given-names: Guangyu
+  - family-names: Li
+    given-names: Jing
+  - family-names: Mei
+    given-names: Di
+  - family-names: Ma
+    given-names: Songchen
+  - family-names: Xu
+    given-names: Mingkun
+  - family-names: Ma
+    given-names: Rui
+preferred-citation:
+  type: conference-paper
+  title: "PIE-PS: Photometric Stereo from Physical Irradiance Event Streams"
+  authors:
+    - family-names: Meng
+      given-names: Xiangze
+    - family-names: Li
+      given-names: Guangyu
+    - family-names: Li
+      given-names: Jing
+    - family-names: Mei
+      given-names: Di
+    - family-names: Ma
+      given-names: Songchen
+    - family-names: Xu
+      given-names: Mingkun
+    - family-names: Ma
+      given-names: Rui
+  collection-title: "SIGGRAPH Asia 2026 Conference Papers"
+  year: 2026
+  doi: "10.1145/3829340.3842249"
