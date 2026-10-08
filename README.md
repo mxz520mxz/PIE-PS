@@ -20,6 +20,8 @@ PyTorch 2.4.1 and the required PyTorch Geometric extensions.
 
 ## Data
 
+Download [PIE-PS-data-20261006.tar.gz](https://drive.google.com/file/d/1zBo8sxxHnNkPsg99rUcTNHhzJhi_t2XB/view) from Google Drive.
+
 Extract `PIE-PS-data-20261006.tar.gz` beside the source directory. The archive
 contains only scene files under `PIE-PS-data/dataset/`:
 
